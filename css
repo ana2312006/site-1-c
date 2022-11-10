@@ -10,3 +10,8 @@
 }
 
 #menu {
+    width: 20%;
+    height: 600px;
+    background-color: black;
+    float: left;
+    margin-top: 10px;
